@@ -1,4 +1,4 @@
-module github.com/cldcvr/api-automation-framework
+module github.com/rajatsharma111/api-automation-framework
 
 go 1.14
 
